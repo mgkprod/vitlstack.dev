@@ -41,10 +41,12 @@
     </div>
     <div class="pt-8 text-center">
       <p class="text-gray-700">
-        Built by
-        <a href="https://twitter.com/SamNewby_" class="text-blue-500 underline">Sam Newby</a> at
-        <a href="https://renderlabs.io" class="text-blue-500 underline">Render Labs</a> |
-        <a href="https://github.com/render-labs/vitlstack.dev" class="text-blue-500 underline">Open source on GitHub</a>
+        Built and maintained by
+        <a href="https://mgk.dev" class="text-blue-500 underline">Simon Rubuano</a> |
+        <a href="https://github.com/mgkprod/vitlstack.dev" class="text-blue-500 underline">Open source on GitHub</a>
+      </p>
+      <p class="text-sm text-gray-700">
+        Original website by <a href="https://twitter.com/SamNewby_" class="text-blue-500 underline">Sam Newby</a>.
       </p>
     </div>
   </div>
